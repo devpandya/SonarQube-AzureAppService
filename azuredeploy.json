@@ -16,8 +16,9 @@
             "defaultValue": "SonarQubeAppService"
         },
         "skuName": {
-            "defaultValue": "B1",
+            "defaultValue": "D1",
             "allowedValues": [
+                "D1",
                 "B1",
                 "B2",
                 "B3",
